@@ -142,7 +142,7 @@ Welcome to my tech-filled corner of the internet! 🎉
 </div>
 
 ### Hacktoberfest(24) Badges 🪶
-<!-- [![An image of @annapoornaaradhya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/annapoornaaradhya)](https://holopin.io/@annapoornaaradhya) -->
+[![An image of @riyaa060's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/riyaa060)](https://holopin.io/@riyaa060)
 
 <div align="center">
 <!-- <img src="https://github.com/user-attachments/assets/68cc98ee-52b3-4446-b003-ce31efaf2244" alt="Screenshot" width="600"/>
