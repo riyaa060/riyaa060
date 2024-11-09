@@ -17,9 +17,8 @@ Welcome to my tech-filled corner of the internet! 🎉
 
 ### 🚀 A Glimpse Into My Tech World:
 
-- 🧠 **Currently diving deep into:** Machine Learning, Artificial Intelligence, and Cloud Computing.  
-- 💻 **Building:** AI-powered tools to solve real-world problems, web apps, and cool projects that make an impact.
-- 🎓 **Hackathon Geek:** Participated in Google Girl Hackathon, NASA Space Apps Challenge, and HacktoberFest 2024.
+- 🧠 **Currently diving deep into:** Web technologies
+- 🎓 **Hackathon Geek:** Participated in Girlscript summer of code,Hack Web3conf and HacktoberFest 2024.
 
 <br />
 <!--Line-->
@@ -35,9 +34,7 @@ Welcome to my tech-filled corner of the internet! 🎉
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
   </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  </a>
+ 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   </a>
@@ -56,25 +53,14 @@ Welcome to my tech-filled corner of the internet! 🎉
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
   </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
-  </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
-  </a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="50" height="50"/>
+
 </p>
 
 <br />
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-### 🌟 Highlights & Adventures:
 
-- **Google Cybersecurity Specialization:** Secured 🔒  
 
 <br />
 <!--Line-->
@@ -84,19 +70,15 @@ Welcome to my tech-filled corner of the internet! 🎉
 ### 🔗 Let's Connect and Collaborate!
 
 <p align="center">
-  <a href="https://www.dev.to/annapoorna_v" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.dribbble.com/Annapoornaaradhya" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" />
-  </a>
+
+ 
   <a href="https://www.github.com/Annapoornaaradhya" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/annapoorna-aradhya" target="_blank" rel="noreferrer">
+  </a> -->
+  <a href="https://www.linkedin.com/in/riya-sharma00" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
-  <a href="http://www.medium.com/@annapoornaaradhya" target="_blank" rel="noreferrer">
+<!--   <a href="http://www.medium.com/@annapoornaaradhya" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
   </a>
   <a href="https://www.stackoverflow.com/users/25786811/annapoorna-v" target="_blank" rel="noreferrer">
@@ -107,8 +89,8 @@ Welcome to my tech-filled corner of the internet! 🎉
   </a>
   <a href="https://www.codechef.com/users/annapoorna18" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" />
-  </a>
-  <a href="https://hackerrank.com/profile/annapoornaaradh1" target="_blank">
+  </a> -->
+<!--   <a href="https://hackerrank.com/profile/annapoornaaradh1" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/u/annapoornaaradhya/" target="_blank">
@@ -116,7 +98,7 @@ Welcome to my tech-filled corner of the internet! 🎉
   </a>
   <a href="https://www.hackerearth.com/@annapoornaaradhya/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" />
-  </a>
+  </a> -->
 </p>
 
 <br />
@@ -136,7 +118,7 @@ Welcome to my tech-filled corner of the internet! 🎉
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
- <!-- <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+<!--  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /></a> -->
 </div>
