@@ -72,7 +72,7 @@ Welcome to my tech-filled corner of the internet! 🎉
 <p align="center">
 
  
-  <a href="https://www.github.com/Annapoornaaradhya" target="_blank" rel="noreferrer">
+  <a href="https://www.github.com/riyaa060" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a> 
   <a href="https://www.linkedin.com/in/riya-sharma00" target="_blank" rel="noreferrer">
